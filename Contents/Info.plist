@@ -7,21 +7,21 @@
 	<key>CFBundleExecutable</key>
 	<string>GitExtensions</string>
 	<key>CFBundleIconFile</key>
-	<string>monodoc.icns</string>
+	<string>GitExtensionsMac.icns</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.novell.monodoc</string>
+	<string>com.novell.GitExtensionsMac</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>MonoDoc</string>
+	<string>GitExtensionsMac</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.2</string>
+	<string>1.0</string>
 	<key>CFBundleSignature</key>
 	<string>xmmd</string>
 	<key>CFBundleVersion</key>
-	<string>2.2</string>
+	<string>1.0</string>
 	<key>NSAppleScriptEnabled</key>
 	<string>NO</string>
 </dict>
